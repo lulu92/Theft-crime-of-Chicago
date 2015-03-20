@@ -1,4 +1,5 @@
 # case study 3
+# Practice on logistic regression and Surveillance plot
 
 source("CrimeUtil.R")
 library(ks)
